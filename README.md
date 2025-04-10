@@ -19,6 +19,9 @@ Program 2: This program tells the car to drive one meter and then turn left. It 
 - <b>Stepper Motor</b>
 - <b>Microswitch</b>
 
+<h2>Challenges and Solutions</h2>
+
+
 
 <h2>Car Photos</h2>
 
