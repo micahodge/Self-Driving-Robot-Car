@@ -23,8 +23,8 @@ Program 2: This program tells the car to drive one meter and then turn left. It 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Top View: <br/>
+<img src="https://i.imgur.com/KvjHBDK.jpeg" height="80%" width="80%" />
 <br />
 <br />
 Select the disk:  <br/>
