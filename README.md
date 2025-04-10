@@ -1,9 +1,9 @@
-<h1>Self-Driving Car</h1>
+<h1>Self-Driving Robot Car</h1>
 
  ### [YouTube Demonstration](https://youtube.com/shorts/d5qk52JwSSc)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This self-driving robot car's main purpose is to be able to guide its way down a hallway while avoiding the walls, and then, when it reaches the end wall, it is supposed to turn around and come back to you. This car uses an Arduino Mega 2560 to control its abilities. For movement, this car uses four small DC motors connected to two L298N motor controllers. There is one L298N motor controller connected to the left motors and another motor controller connected to the right motors. An ultrasonic sensor mounted on a small stepper motor is used to detect the robot's surroundings.
 <br />
 
 
