@@ -20,7 +20,7 @@ Program 2: This program tells the car to drive one meter and then turn left. It 
 - <b>Microswitch</b>
 
 <h2>Challenges and Solutions</h2>
-
+During this project, I ran into 3 major problems, and I ended up finding solutions to all of them. This is an explanation of my problems and how I solved them. 
 
 
 <h2>Car Photos</h2>
@@ -36,15 +36,3 @@ Front View:  <br/>
 <br />
 Side View: <br/>
 <img src="https://i.imgur.com/SDfULTQ.jpeg" height="50%" width="50%"/>
-
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
